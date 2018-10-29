@@ -11,4 +11,6 @@ There is a lot of room for improvement, but I don't really use my B6 anymore.
 **imax_b6_charger.ino**
  * Use with just about any Arduino, outputs to Serial terminal
 
- 
+
+In action:
+https://youtu.be/cKINBt144Qs
